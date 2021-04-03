@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP4_supplementaires</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="Apropos">A Propos</string>
+    <string name="Contacter">Contacter</string>
+    <string name="titre_section0">Hiver</string>
+    <string name="titre_section1">Printemps</string>
+    <string name="titre_section2">Été</string>
+    <string name="titre_section3">Automne</string>
+    <string name="titre_section5">Saisons</string>
+</resources>
